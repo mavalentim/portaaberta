@@ -1,0 +1,13 @@
+name: porta_aberta
+title: porta_aberta
+username:
+account: mavalentim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6912979
+bundleId: 6265495
+url: https://mavalentim.shinyapps.io/porta_aberta/
+when: 1662205004.20202
+lastSyncTime: 1662205004.20203
+asMultiple: FALSE
+asStatic: FALSE
